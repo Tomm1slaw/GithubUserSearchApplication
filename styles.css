@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #F5F2F0;
+}
+
+#root {
+  margin: 0 auto;
+  text-align: center;
+}
+
+label {
+  font-size: 45px;
+  display: block;
+}
+
+input {
+  height: 30px;
+  margin-top: 30px;
+  border: 2px solid green;
+}
+
+img {
+  padding-top: 20px;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+}
